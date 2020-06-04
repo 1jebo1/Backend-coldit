@@ -1,0 +1,6 @@
+com\example\appejm\Producto.class
+com\example\appejm\ProductoRepositorio.class
+com\example\appejm\Controlador.class
+com\example\appejm\ProductoServiceImp.class
+com\example\appejm\ProductoService.class
+com\example\appejm\AppejmApplication.class
