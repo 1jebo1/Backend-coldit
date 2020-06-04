@@ -27,7 +27,7 @@ public class Controlador {
     public List<Producto>listar(){
         return service.listar();
     }
-    @PostMapping //anotacion agregar usurio 
+    @PostMapping //anotacion agregar producto 
     public Producto agregar(@RequestBody Producto p){
         return service.add(p);
     }
